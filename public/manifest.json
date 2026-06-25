@@ -2,20 +2,20 @@
   "name": "Mapa de Vida - Alexandre",
   "short_name": "Mapa de Vida",
   "description": "Caminho para a Excelência como Prestador de Serviço",
-  "start_url": "/",
+  "start_url": "/alemapa/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/alemapa/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/alemapa/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
